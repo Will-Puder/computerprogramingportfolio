@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to William Puder's Computer Programing portfolio
 
 You can use the [editor on GitHub](https://github.com/Will-Puder/computerprogramingportfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
